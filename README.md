@@ -1,9 +1,9 @@
-## 🌌 Bienvenido a mi Universo Digital
+## 🌌 Bienvenido a mi perfil
 
 ```diff
-+ 🚀 Desarrollador de Software
-! 💡 Apasionado por la tecnología y la innovación
-- 🌱 En constante aprendizaje
+ 🚀 Desarrollador de Software
+ 💡 Apasionado por la tecnología y la innovación
+ 🌱 En constante aprendizaje
 ```
 
 ---
@@ -14,7 +14,7 @@
 🛠 **Stack Tecnológico:**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,livewire,tailwind,bootstrap,laravel,nodejs,alpinejs,postgresql" alt="Stack Tecnológico" />
+  <img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap,laravel,nodejs,alpinejs,postgresql" alt="Stack Tecnológico" />
 </p>
 
 ---
